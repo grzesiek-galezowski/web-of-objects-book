@@ -19,6 +19,15 @@ Examples of widely accepted choices: data access layer, scrum, separate UI from 
 
 # control styles vs code qualities
 
+# SOLID
+
+# GOF guidelines
+
 # Message passing
 
 - internet, OO code
+
+# web of objects vs other paradigms
+
+- procedural
+- functional
