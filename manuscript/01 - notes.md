@@ -18,3 +18,7 @@ Examples of widely accepted choices: data access layer, scrum, separate UI from 
 - testability
 
 # control styles vs code qualities
+
+# Message passing
+
+- internet, OO code
