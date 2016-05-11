@@ -16,3 +16,5 @@ Examples of widely accepted choices: data access layer, scrum, separate UI from 
 - readability
 - encapsulation (2 definitions)
 - testability
+
+# control styles vs code qualities
