@@ -31,3 +31,7 @@ Examples of widely accepted choices: data access layer, scrum, separate UI from 
 
 - procedural
 - functional
+
+# Constraints
+
+Apart from enabling flexibility, we strive for constraints to take advantage of mechanisms such as strong typing. A Singleton introduces flexibility but adds constraints at the same time. Sometimes we implement constraints on domain level to get better error handling even though another mechanism ensures we get only the valid data.
