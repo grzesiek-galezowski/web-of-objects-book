@@ -46,4 +46,4 @@ Kent Beck has some written up - examine them.
 
 # Constraints
 
-Apart from enabling flexibility, we strive for constraints to take advantage of mechanisms such as strong typing. A Singleton introduces flexibility but adds constraints at the same time. Sometimes we implement constraints on domain level to get better error handling even though another mechanism ensures we get only the valid data.
+Apart from enabling flexibility, we strive for constraints to take advantage of mechanisms such as strong typing. A Singleton introduces flexibility but adds constraints at the same time. Sometimes we implement constraints on domain level to get better error handling even though another mechanism ensures we get only the valid data. https://twitter.com/przemekpokrywka/status/730872309683261442
