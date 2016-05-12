@@ -2,6 +2,10 @@
 
 Examples of widely accepted choices: data access layer, scrum, separate UI from other logic (MVVM?), using a framework (e.g. an MVC framework, but also mocking library)
 
+# Values
+
+Kent Beck has some written up - examine them.
+
 # Simplicity
 
 - what is and what is not "simple".
@@ -18,6 +22,14 @@ Examples of widely accepted choices: data access layer, scrum, separate UI from 
 - testability
 
 # control styles vs code qualities
+
+# Abstractions
+
+- What is "abstraction"
+- different abstraction of the same thing in different contexts
+- Deriving abstractions
+- Naming abstractions
+- Modelling abstractions
 
 # SOLID
 
