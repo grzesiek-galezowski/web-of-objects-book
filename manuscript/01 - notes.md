@@ -33,6 +33,10 @@ Kent Beck has some written up - examine them.
 
 # SOLID
 
+# Domain Specific Languages
+
+- only embedded, techniques for creating them, examples, compositionality
+
 # GOF guidelines
 
 # Message passing
