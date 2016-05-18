@@ -38,6 +38,10 @@ Kent Beck has some written up - examine them.
 # Message passing
 
 - internet, OO code
+ 
+# Law of demeter
+
+- differences between it and Tell don't ask
 
 # web of objects vs other paradigms
 
