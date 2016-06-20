@@ -13,6 +13,10 @@ Kent Beck has some written up - examine them.
 - overdesign
 - underdesign
 
+# Enablers
+
+Martin Fowler describes enablers, e.g. self testing code, good quality code
+
 # Code Qualities
 
 - cohesion
