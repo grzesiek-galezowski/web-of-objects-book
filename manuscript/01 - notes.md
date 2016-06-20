@@ -2,6 +2,8 @@
 
 Examples of widely accepted choices: data access layer, scrum, separate UI from other logic (MVVM?), using a framework (e.g. an MVC framework, but also mocking library)
 
+TODO mention the Fowler's design Stamina Hypothesis
+
 # Values
 
 Kent Beck has some written up - examine them.
