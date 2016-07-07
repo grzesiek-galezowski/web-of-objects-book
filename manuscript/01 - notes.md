@@ -1,3 +1,11 @@
+# terms
+
+- principle
+- practice
+- discipline
+- technique
+- pattern
+
 # Default Choices
 
 Examples of widely accepted choices: data access layer, scrum, separate UI from other logic (MVVM?), using a framework (e.g. an MVC framework, but also mocking library)
