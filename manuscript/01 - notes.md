@@ -10,6 +10,8 @@
 
 Examples of widely accepted choices: data access layer, scrum, separate UI from other logic (MVVM?), using a framework (e.g. an MVC framework, but also mocking library)
 
+Default choices are bets that win big or lose small. (e.g. a domain model)
+
 TODO mention the Fowler's design Stamina Hypothesis
 
 # Values
