@@ -21,9 +21,11 @@ Kent Beck has some written up - examine them.
 # Simplicity
 
 - what is and what is not "simple".
-- 4 rules of simple design - Beck and Shalloway's version
+- 4 rules of simple design - Beck and Shalloway's version (mention 4 rules in refactoring)
 - overdesign
 - underdesign
+
+
 
 # Enablers
 
