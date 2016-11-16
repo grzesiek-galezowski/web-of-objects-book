@@ -74,3 +74,19 @@ Martin Fowler describes enablers, e.g. self testing code, good quality code
 # Constraints
 
 Apart from enabling flexibility, we strive for constraints to take advantage of mechanisms such as strong typing. A Singleton introduces flexibility but adds constraints at the same time. Sometimes we implement constraints on domain level to get better error handling even though another mechanism ensures we get only the valid data. https://twitter.com/przemekpokrywka/status/730872309683261442
+
+# Patterns for passing objects
+
+- pass inside for filling
+- return value
+
+# Command and query separation
+
+- refer to Meyer's original example for random 
+- show how passing parameter iside can help instead of returning value
+
+# Human factors
+
+- the quality of design depends on knowledge of the team of existing design
+- the world changes
+- there is always more to learn than resources allow
