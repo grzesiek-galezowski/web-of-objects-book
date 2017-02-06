@@ -24,7 +24,8 @@ Kent Beck has some written up - examine them.
 - 4 rules of simple design - Beck and Shalloway's version (mention 4 rules in refactoring)
 - overdesign
 - underdesign
-
+- use of four rules in refactoring
+- 4 rules are just a start -> questions drawn from each rule
 
 
 # Enablers
