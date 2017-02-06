@@ -78,7 +78,7 @@ Apart from enabling flexibility, we strive for constraints to take advantage of 
 
 # Patterns for passing objects
 
-- pass inside for filling
+- pass inside for filling (collecting parameter pattern)
 - return value
 
 # Command and query separation
