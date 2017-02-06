@@ -86,7 +86,12 @@ Apart from enabling flexibility, we strive for constraints to take advantage of 
 - show how passing parameter iside can help instead of returning value
 
 # Human factors
-
 - the quality of design depends on knowledge of the team of existing design
 - the world changes
 - there is always more to learn than resources allow
+- code as crime scene
+
+# interesting problems
+
+- contract propagation if bottommost object returns -1 as error and topmost relies on this, the contract must be propagated through the entire call stack - is it a good/bad thing? Are there alternatives?
+
