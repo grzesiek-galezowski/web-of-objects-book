@@ -92,6 +92,8 @@ Apart from enabling flexibility, we strive for constraints to take advantage of 
 - there is always more to learn than resources allow
 - code as crime scene
 - rotation influences design
+- collective definitions of simplicity
+- unbiased technical discussions
 
 # interesting problems
 
