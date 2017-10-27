@@ -91,8 +91,12 @@ Apart from enabling flexibility, we strive for constraints to take advantage of 
 - the world changes
 - there is always more to learn than resources allow
 - code as crime scene
+- rotation influences design
 
 # interesting problems
 
 - contract propagation if bottommost object returns -1 as error and topmost relies on this, the contract must be propagated through the entire call stack - is it a good/bad thing? Are there alternatives?
 
+# responsibilities
+
+- different definitions of Rebecca WB and Uncle Bob
